@@ -1,0 +1,1 @@
+git config 설정완료
